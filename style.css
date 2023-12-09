@@ -6,9 +6,7 @@ h1{
 
 }
 nav{
-   margin: 20px 0px;
    text-align: center;
-   padding: 20px 0px;
    background-color: red;
    font-size: 20px;
    border:solid white;
@@ -23,7 +21,8 @@ nav a {
     color: white;
      border:solid white;
       
- 
+ border-radius:  7px;
+ padding: 5px 10px;
 
 }
  h2{
