@@ -11,12 +11,14 @@ nav{
    padding: 20px 0px;
    background-color: red;
    font-size: 20px;
+   border:solid white;
 }
 
 nav a {
     text-decoration: none;
     padding-right: 60px; 
     color: white;
+     border:solid white;
 
 }
  h2{
@@ -26,7 +28,7 @@ nav a {
 
 }
 p{
-    color:red;
+    color:rgb(173, 156, 156);
     font-size: 20px;
 }
 button a{
@@ -35,7 +37,7 @@ button a{
     background-color:#a966e3;
     color:#000000;  
     }
-    footer a{
+footer a{
     text-decoration: none;
    color: black;
    font-size: 30px;
@@ -47,6 +49,8 @@ button a{
         background-color:#a966e3;
     }
     div{
-        background-color: blue;
+        background-color: rgb(2, 2, 37);
     }
+    
+
     
